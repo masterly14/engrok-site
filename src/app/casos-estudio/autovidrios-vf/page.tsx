@@ -1,3 +1,5 @@
+"use client";
+
 import Header from "@/components/header";
 import dynamic from "next/dynamic";
 import Link from "next/link";
