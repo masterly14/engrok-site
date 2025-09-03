@@ -40,7 +40,7 @@ const SuccessCard = ({ logo, metric, metricDescription, title, description, link
 
 export default function SuccessStories() {
   return (
-    <section className="bg-gray-50 py-24 sm:py-32">
+    <section id="casos-exito" className="bg-gray-50 py-24 sm:py-32">
       <div className="max-w-6xl mx-auto px-6 lg:px-8">
         <div className="max-w-2xl mb-16">
             <h2 className="text-4xl md:text-5xl font-light text-gray-900 tracking-tight">

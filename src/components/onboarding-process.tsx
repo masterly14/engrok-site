@@ -37,7 +37,7 @@ const processSteps = [
 
 export default function OnboardingProcess() {
   return (
-    <section className="relative z-20 pt-24 pb-24 sm:pt-32 sm:pb-32">
+    <section id="proceso" className="relative z-20 pt-24 pb-24 sm:pt-32 sm:pb-32">
       {/* Glassmorphic card styled like ServiceCard */}
       <div className="relative max-w-5xl mx-auto p-12 bg-black/30 backdrop-blur-sm rounded-2xl border border-white/10">
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent rounded-full" />

@@ -48,7 +48,7 @@ export default function CallToActionSection() {
   }
 
   return (
-    <section className="relative overflow-hidden py-24 sm:py-32">
+    <section id="contacto" className="relative overflow-hidden py-24 sm:py-32">
       <div className="absolute inset-0 -z-10">
         <ShaderBackground />
         <div className="absolute inset-0 bg-black/50" />
